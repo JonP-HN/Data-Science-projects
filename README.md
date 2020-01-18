@@ -4,6 +4,11 @@ Welcome to my online GitHub repository. Below are some of my recent personal Dat
 
 ## Contact
 
-[Email](hernandezjp01@gmail.com)
+:e-mail: [Email](hernandezjp01@gmail.com)
 
-[LinkedIn](https://www.linkedin.com/)
+:link: [LinkedIn](https://www.linkedin.com/)
+
+## Projects
+
+### [Credit Check: building machine learning model to predict customer's credit status](https://github.com/JonP-HN/Data-Science-projects/tree/master/Credit%20Check)
+
