@@ -5,7 +5,7 @@ Created on Sat Jun 29 15:37:27 2019
 @author: herna
 """
 
-f_input	= open("check_credit.txt",'r')
+f_input	= open("Credit Check.txt",'r')
 f_output = open("check_credit.txt-clean-data.csv",	'w')
 for	line in	f_input:				
     if '?' not	in line:			
