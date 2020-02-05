@@ -10,6 +10,6 @@ Below are some of my recent personal Data Science projects. Please reach out if 
 
 ## Projects
 
-### [Credit Check:](https://github.com/JonP-HN/Data-Science-projects/tree/master/Credit%20Check) predicting a customer's credit status through machine learning
+### [Credit Check: predicting a customer's credit status through machine learning](https://github.com/JonP-HN/Data-Science-projects/tree/master/Credit%20Check)
 
 ### [Twitter Sentiment Analysis: classification of social media post sentiments](https://github.com/JonP-HN/Data-Science-projects/tree/master/Twitter%20Sentiment%20Analysis)
