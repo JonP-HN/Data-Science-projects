@@ -16,5 +16,5 @@ Below are some of my recent personal Data Science projects. Please reach out if 
 
 ### [Twitter Sentiment Analysis: classification of social media post sentiments](https://github.com/JonP-HN/Data-Science-projects/tree/master/Twitter%20Sentiment%20Analysis)
 
-* Created a sentiment classifier in Python
+* Created a sentiment classifier in Python.
 * Analyzed fake, auto-generated data from a social media site to analyze social media post sentiments.
