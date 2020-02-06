@@ -12,6 +12,7 @@ Python program that reads fake, auto-generated data from a social media site to 
    * Data is classified by: Number of Retweets, Number of Replies, Positive Score (how many happy words are in the tweet), Negative Score (how many angry words are in the tweet), and the Net Score (how positive or negative the text is overall) for each tweet. 
    
 ## Technologies
+Project is created with:
 * Python 3
 * Excel
 
